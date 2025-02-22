@@ -4,8 +4,9 @@ h2{
 img{
     border: 10px solid  rgb(95, 202, 140);
     border-radius: 50%;
-    position: relative;
-    left: 1250px;
+    position: fixed;
+    left: 750px;
+    top: 25px
     z-index: 0;
     bottom: 80px;
 
